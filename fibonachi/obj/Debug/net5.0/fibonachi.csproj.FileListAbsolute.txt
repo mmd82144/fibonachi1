@@ -1,0 +1,16 @@
+D:\C#\fibonachi\fibonachi\bin\Debug\net5.0\fibonachi.exe
+D:\C#\fibonachi\fibonachi\bin\Debug\net5.0\fibonachi.deps.json
+D:\C#\fibonachi\fibonachi\bin\Debug\net5.0\fibonachi.runtimeconfig.json
+D:\C#\fibonachi\fibonachi\bin\Debug\net5.0\fibonachi.runtimeconfig.dev.json
+D:\C#\fibonachi\fibonachi\bin\Debug\net5.0\fibonachi.dll
+D:\C#\fibonachi\fibonachi\bin\Debug\net5.0\ref\fibonachi.dll
+D:\C#\fibonachi\fibonachi\bin\Debug\net5.0\fibonachi.pdb
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.csproj.AssemblyReference.cache
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.AssemblyInfoInputs.cache
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.AssemblyInfo.cs
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.csproj.CoreCompileInputs.cache
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.dll
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\ref\fibonachi.dll
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.pdb
+D:\C#\fibonachi\fibonachi\obj\Debug\net5.0\fibonachi.genruntimeconfig.cache
